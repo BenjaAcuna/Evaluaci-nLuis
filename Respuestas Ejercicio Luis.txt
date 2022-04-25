@@ -1,0 +1,19 @@
+2.- Defina con sus propias palabras los sgtes. términos:
+
+- Clase: Las clases son conceptos que se utilizan para reperesentar alguna acción o metodo que realiza una funcion especificada por el programador.
+
+- Interfaz: La interzas es una clase modificada para que los objetos no relacionados se comuniquen entre sí.
+
+- Clase Abstracta: La clase abstracta no se puede instanciar pero contienen metodos vacios los cuales se instancian en las clases hijas que heredan de la clase padre mediante el extends.
+ 
+- Herencia: Es el llamado a otra clase ya existente, obteniendo caracteristicas (métodos y atributos) parecidos a los ya existentes.
+
+- Polimorfismo: Es la forma o llamado en la cual varios objetos pueden tener una respuesta de la clase padre heredando metodos o atributos.
+
+3.- Nombre y describa 3 patrones de diseño que conozca.
+
+Singleton: Asegura que la clase solo tenga una instancia posible, a la que se pueda acceder de forma global.
+
+Factory:  Su función es devolver instancias de una clase en particular por medio de algun identificador.
+
+Prototype: El objetivo de esta función es crear una nueva instacia con los valores copiados o clonados de otra instancia sin necesidad de depender de esta misma.
